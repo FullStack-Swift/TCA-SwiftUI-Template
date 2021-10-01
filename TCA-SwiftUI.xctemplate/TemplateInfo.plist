@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SortOrder</key>
+	<string>1</string>
+	<key>SupportsSwiftPackage</key>
+	<true/>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+		<string>com.apple.platform.macos</string>
+		<string>com.apple.platform.watchos</string>
+		<string>com.apple.platform.tvos</string>
+	</array>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Identifier</key>
+			<string>productName</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>The Composable Architecture</string>
+			<key>Description</key>
+			<string>The Composable Architecture</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>Default</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Identifier</key>
+			<string>Binding</string>
+			<key>Required</key>
+			<false/>
+			<key>Name</key>
+			<string>Binding</string>
+			<key>Description</key>
+			<string>The Composable Architecture</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Identifier</key>
+			<string>OneFile</string>
+			<key>Required</key>
+			<false/>
+			<key>Name</key>
+			<string>One File</string>
+			<key>Description</key>
+			<string>The Composable Architecture</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Identifier</key>
+			<string>BindingOneFile</string>
+			<key>Required</key>
+			<false/>
+			<key>Name</key>
+			<string>Binding One File</string>
+			<key>Description</key>
+			<string>The Composable Architecture</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Identifier</key>
+			<string>Basic</string>
+			<key>Required</key>
+			<false/>
+			<key>Name</key>
+			<string>Basic</string>
+			<key>Description</key>
+			<string>The Composable Architecture</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Identifier</key>
+			<string>BasicBinding</string>
+			<key>Required</key>
+			<false/>
+			<key>Name</key>
+			<string>Basic Binding</string>
+			<key>Description</key>
+			<string>The Composable Architecture</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<string>The Composable Architecture</string>
+		</dict>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Identifier</key>
+			<string>BasicOneFile</string>
+			<key>Required</key>
+			<false/>
+			<key>Name</key>
+			<string>Basic One File</string>
+			<key>Description</key>
+			<string>The Composable Architecture</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Identifier</key>
+			<string>BasicBindingOneFile</string>
+			<key>Required</key>
+			<false/>
+			<key>Name</key>
+			<string>Basic Binding One File</string>
+			<key>Description</key>
+			<string>The Composable Architecture</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>
